@@ -1,0 +1,2 @@
+class Token:
+    value = {"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTczMzIyMTA4MCwianRpIjoiYTNhYmU2MTUtYTBlZC00ODliLWJjMWYtNmFjODhkYzZjMjg0IiwidHlwZSI6ImFjY2VzcyIsInN1YiI6ImFkbWluIiwibmJmIjoxNzMzMjIxMDgwLCJleHAiOjE3MzMyMjQ2ODB9.ojJ5YaNQ8dTf82yoFQ53WIvykX67bfffaaUv1GzpDLk"}
