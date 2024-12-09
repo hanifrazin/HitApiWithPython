@@ -1,3 +1,5 @@
 jsonschema
 requests
 pytest
+faker
+faker_food
