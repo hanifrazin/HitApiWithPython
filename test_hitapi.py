@@ -74,7 +74,7 @@ def test_list_items():
     except ValidationError as e:
         assert False, f'JSON Schema validation error: {e}'
 
-@pytest.mark.skip(reason="Kadang2 suka error")
+
 def test_get_specific_items():
     global id, foodName
     resp = requests.get(f"{base_url}/items/{id}", headers=get_token())
